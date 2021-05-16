@@ -1,34 +1,34 @@
 Election Results
 -------------------------
-Total Votes: 739,422     
+Total Votes: 369,711     
 -------------------------
 
 County Votes:
-Raymon Anthony Doane: received 5.254780084985299% of the vote.
-Raymon Anthony Doane: received 41.391113599541264% of the vote.
-Raymon Anthony Doane: received 3.3541063154734374% of the vote.
-Arapahoe: 3.4% {'Jefferson': 38855, 'Denver': 306055, 'Arapahoe': 24801}
+Raymon Anthony Doane: received 10.509560169970598% of the vote.
+Raymon Anthony Doane: received 82.78222719908253% of the vote.
+Raymon Anthony Doane: received 6.708212630946875% of the vote.
+Arapahoe: 6.7% {'Jefferson': 38855, 'Denver': 306055, 'Arapahoe': 24801}
 
-Charles Casper Stockham: 11.5% (85,213)
+Charles Casper Stockham: 23.0% (85,213)
 
 -------------------------
 Winner: Charles Casper Stockham
 Winning Vote Count: 85,213
-Winning Percentage: 11.5%
+Winning Percentage: 23.0%
 -------------------------
 
-Diana DeGette: 36.9% (272,892)
-
--------------------------
-Winner: Diana DeGette
-Winning Vote Count: 272,892
-Winning Percentage: 36.9%
--------------------------
-
-Raymon Anthony Doane: 1.6% (11,606)
+Diana DeGette: 73.8% (272,892)
 
 -------------------------
 Winner: Diana DeGette
 Winning Vote Count: 272,892
-Winning Percentage: 36.9%
+Winning Percentage: 73.8%
+-------------------------
+
+Raymon Anthony Doane: 3.1% (11,606)
+
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
 -------------------------
